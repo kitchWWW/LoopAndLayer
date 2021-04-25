@@ -1,0 +1,7 @@
+**.DS_Store
+allout/*
+allres/*
+bin/*
+include/*
+pyvenv.cfg
+lib/*
